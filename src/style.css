@@ -183,3 +183,11 @@ details[open] .plus { transform: rotate(45deg); }
 .foot-brand { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--ink2); }
 .foot nav { display: flex; flex-wrap: wrap; gap: 6px 20px; font-size: 14px; color: var(--ink2); }
 .foot nav a { text-decoration: none; min-height: 44px; display: flex; align-items: center; }
+
+/* Agent request on the phone */
+.app-logo.agent { background: var(--iris); color: var(--oniris); }
+.app-meta .ink-strong { color: var(--ink); font-weight: 600; }
+.phone .rules > div { height: 42px; font-size: 13.5px; }
+.dev-card .cta { width: auto; }
+.btn-outline { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+.faq p a { color: var(--iris); }
